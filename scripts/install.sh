@@ -14,13 +14,13 @@
 #
 
 # MySQL root password
-dbroot="rootZaq!2wsx"
+dbroot="Bf074M1v1guD"
 
 # Zabbix user MySQL password
-dbzabbix="zabbixZaq!2wsx"
+dbzabbix="Bf074M1v1guD"
 
 # MySQL database monitoring user
-monzabbix="monzabbixZaq!2wsx"
+monzabbix="Bf074M1v1guD"
 
 # Zabbix Server URL
 zabbixurl="https://cdn.zabbix.com/zabbix/sources/stable/6.2/zabbix-6.2.3.tar.gz"
@@ -32,7 +32,7 @@ zabbixarchive=$(basename "$zabbixurl")
 srcdir="/usr/local/src"
 
 # PHP timezone
-phptz="America/New_York"
+phptz="Europe/Paris"
 
 # Zabbix server configuration
 zabbixconf="/usr/local/etc/zabbix_server.conf"
